@@ -12,8 +12,5 @@ for x in range(0, 1000):
   if (x % 3) == 0:
     dict.append(x)
 
-print("list of factorials:"),
-print list(set(dict))
-print("")
 print("Sum of factorials:"),
 print sum(list(set(dict)))
