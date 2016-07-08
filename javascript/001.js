@@ -1,5 +1,5 @@
-/*Completed on 7/8/2016 by Theresa Thoraldson
-  source: https://projecteuler.net/problem=1 */
+/* Completed on 7/8/2016 by Theresa Thoraldson
+   source: https://projecteuler.net/problem=1 */
 
 var list = [];
  
