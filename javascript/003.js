@@ -13,4 +13,4 @@ while(i <= 1000){
   }
   i++
 }
-console.log(primeArray);
+console.log(primeArray); // not printing out the correct numbers
